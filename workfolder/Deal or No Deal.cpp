@@ -46,7 +46,7 @@ int main()
 	while (choice1 < 1 || choice1 >10)
 	{
 		text_colour(f_red,b_black);
-		cout << "That¡¯s not between 1 and 10! What case do you want (1-10)?";
+		cout << "ThatÂ¡Â¯s not between 1 and 10! What case do you want (1-10)?";
 		cin >> choice1;
 	}
 
@@ -62,7 +62,7 @@ int main()
 		while (choice2 < 1 || choice2>10 || !taken[choice2 - 1]||choice2==choice1)
 		{
 			text_colour(f_red, b_black);
-			cout << "That case has already been chosen or isn¡¯t between 1 and 10 ¨C what case do you want?" << endl;
+			cout << "That case has already been chosen or isnÂ¡Â¯t between 1 and 10 Â¨C what case do you want?" << endl;
 			cin >> choice2;
 		}
 
@@ -108,7 +108,7 @@ int main()
 			while (choice2 < 1 || choice2>10 || !taken[choice2 - 1]||choice2==choice1)
 			{
 				text_colour(f_red, b_black);
-				cout << "That case has already been chosen or isn¡¯t between 1 and 10 ¨C what case do you want?" << endl;
+				cout << "That case has already been chosen or isnÂ¡Â¯t between 1 and 10 Â¨C what case do you want?" << endl;
 				cin >> choice2;
 			}
 			cout << "Case" << choice2 << "contains $" << cases[choice2 - 1] << endl;
@@ -151,7 +151,7 @@ int main()
 				while (choice2 < 1 || choice2>10 || !taken[choice2 - 1]||choice2==choice1)
 				{
 					text_colour(f_red, b_black);
-					cout << "That case has already been chosen or isn¡¯t between 1 and 10 ¨C what case do you want?" << endl;
+					cout << "That case has already been chosen or isnÂ¡Â¯t between 1 and 10 Â¨C what case do you want?" << endl;
 					cin >> choice2;
 				}
 				cout << "Case" << choice2 << "contains $" << cases[choice2 - 1] << endl;
@@ -240,7 +240,7 @@ void initialize(int cases[10], bool taken[10])
 
 }//initialize
 
-//The expected_value function is the one that tells what the banker will offer ¨C basically, it¡¯s the average value of all the cases that haven¡¯t yet been seen in the game!
+//The expected_value function is the one that tells what the banker will offer Â¨C basically, itÂ¡Â¯s the average value of all the cases that havenÂ¡Â¯t yet been seen in the game!
 //case[10]- 10 different values separate in 10 cases
 //taken[10]-tells if the case has been taken or not
 //chosen-the case which the player chose randomly

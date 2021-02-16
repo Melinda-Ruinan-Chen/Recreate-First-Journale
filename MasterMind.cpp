@@ -1,5 +1,5 @@
 // MasterMind-- This program tells the exact place and the wrong place user guesses four alphabet placed in a coorect form among six different alphabets
-// Melinda Chen Comp.Sci 30S
+// Melinda Chen 
 // 2020-05-18
 
 #include<iostream>

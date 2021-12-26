@@ -1,0 +1,8 @@
+﻿  Bike Share Program.cpp
+D:\cs\grade 12 cs\Bike Share - Melinda Chen\Bike Share Program.cpp(51,20): warning C4101: 'number': unreferenced local variable
+D:\cs\grade 12 cs\Bike Share - Melinda Chen\Bike Share Program.cpp(73,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\cs\grade 12 cs\Bike Share - Melinda Chen\Bike Share Program.cpp(232,42): warning C4101: 'arr': unreferenced local variable
+D:\cs\grade 12 cs\Bike Share - Melinda Chen\Bike Share Program.cpp(427,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cs\grade 12 cs\Bike Share - Melinda Chen\Bike Share Program.cpp(439,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\cs\grade 12 cs\Bike Share - Melinda Chen\Bike Share Program.cpp(440,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bike Share - Melinda Chen.vcxproj -> D:\cs\grade 12 cs\Bike Share - Melinda Chen\Debug\Bike Share - Melinda Chen.exe

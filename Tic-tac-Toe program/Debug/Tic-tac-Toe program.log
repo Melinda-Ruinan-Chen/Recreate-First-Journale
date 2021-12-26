@@ -1,0 +1,7 @@
+﻿  Tic-tac-Toe.cpp
+D:\cs\grade 12 cs\Tic-tac-Toe program\Tic-tac-Toe.cpp(77,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\cs\grade 12 cs\Tic-tac-Toe program\Tic-tac-Toe.cpp(79,6): warning C4101: 'turn': unreferenced local variable
+D:\cs\grade 12 cs\Tic-tac-Toe program\Tic-tac-Toe.cpp(80,6): warning C4101: 'pos': unreferenced local variable
+D:\cs\grade 12 cs\Tic-tac-Toe program\Tic-tac-Toe.cpp(80,11): warning C4101: 'pos1': unreferenced local variable
+D:\cs\grade 12 cs\Tic-tac-Toe program\Tic-tac-Toe.cpp(178,27): warning C4305: '=': truncation from 'square' to 'bool'
+  Tic-tac-Toe program.vcxproj -> D:\cs\grade 12 cs\Tic-tac-Toe program\Debug\Tic-tac-Toe program.exe

@@ -1,0 +1,9 @@
+﻿  Hangperson - Better RUN before getting hanged.cpp
+D:\cs\grade 12 cs\Hangperson Program\Hangperson - Better RUN before getting hanged.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\cs\grade 12 cs\Hangperson Program\Hangperson - Better RUN before getting hanged.cpp(101,36): warning C4018: '<': signed/unsigned mismatch
+D:\cs\grade 12 cs\Hangperson Program\Hangperson - Better RUN before getting hanged.cpp(103,32): warning C4018: '<': signed/unsigned mismatch
+D:\cs\grade 12 cs\Hangperson Program\Hangperson - Better RUN before getting hanged.cpp(106,21): warning C4018: '<': signed/unsigned mismatch
+D:\cs\grade 12 cs\Hangperson Program\Hangperson - Better RUN before getting hanged.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+D:\cs\grade 12 cs\Hangperson Program\Hangperson - Better RUN before getting hanged.cpp(170,15): warning C4018: '<': signed/unsigned mismatch
+D:\cs\grade 12 cs\Hangperson Program\Hangperson - Better RUN before getting hanged.cpp(197,19): warning C4018: '<': signed/unsigned mismatch
+  Hangperson Program.vcxproj -> D:\cs\grade 12 cs\Hangperson Program\Debug\Hangperson Program.exe

@@ -1,0 +1,6 @@
+﻿  BINGO FOR BONUS.cpp
+D:\cs\grade 12 cs\BINGO FOR BONUS\BINGO FOR BONUS.cpp(44,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\cs\grade 12 cs\BINGO FOR BONUS\BINGO FOR BONUS.cpp(200,6): warning C4101: 'pos': unreferenced local variable
+D:\cs\grade 12 cs\BINGO FOR BONUS\BINGO FOR BONUS.cpp(226,6): warning C4101: 'rows': unreferenced local variable
+D:\cs\grade 12 cs\BINGO FOR BONUS\BINGO FOR BONUS.cpp(226,12): warning C4101: 'columns': unreferenced local variable
+  BINGO FOR BONUS.vcxproj -> D:\cs\grade 12 cs\BINGO FOR BONUS\Debug\BINGO FOR BONUS.exe
